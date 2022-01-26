@@ -19,4 +19,4 @@ Foo -> Foo7: To queue
 @enduml
 
 
-![Sequence Diagram](http://www.plantuml.com/plantuml/uml/JP4v3iCW44NxEGKNI16lKeh8MUj4oWKmfa1om86XyEs36JiP2dZwJupueWieFSRt25CwZJAJj2WUZ6KGT-T0AdHUq3en9hs7taKxI3ylsPan-GAKi-ZTcEzS69ClGLiqEDFC6sFo5GmIPI-3Nh8hO_9rcZ-EMg5nDgJvVoRVm2VggDStFncJRo5jOdVCNSH1l9oWmYmlAD-ACbEIMIioKP6WRYolATywCTDietuDc6opoqsWqtPOlkqB)
+![Sequence Diagram](http://www.plantuml.com/plantuml/png/JOyzJWCn44RxESLSW8By91852WIeGU824wyBIuudsECYjsVNNrQQAUodxrNlr4ogzMkcs_oda6vIZByTI-ClLP9WMXdtvXZwcIxQooJrlcplZk4t5BHOrSpBdHt3RoaMItRdSPzWvtSqYSb5Mbos3yVmUmgQSmoMj3G-EuO_q5-FFJBknp7yaUQ7drv72x_mhpA2tRx1leOwiuLv93gnWq2Rs_VOroPd3Z2knidZSAE4Jh5C_Ph_0G00)
